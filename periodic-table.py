@@ -24,7 +24,7 @@ def get_details() :
            "Chlorine":"Symbol: Cl\nElement Number: 17\nNumber Of Protons/Electrons: 17\nNumber Of Neutrons: 18\nDistribution Of Electrons: 2, 8, 7",
            "Argon":"Symbol: Ar\nElement Number: 18\nNumber Of Protons/Electrons: 18\nNumber Of Neutrons: 22\nDistribution Of Electrons: 2, 8, 8",
            "Potassium":"Symbol: K\nElement Number: 19\nNumber Of Protons/Electrons: 19\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 1",
-           "Calcium":"Symbol: Ca\nElement Number: 20\nNumber Of Protons/Electrons: 20\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 2,
+           "Calcium":"Symbol: Ca\nElement Number: 20\nNumber Of Protons/Electrons: 20\nNumber Of Neutrons: 20\nDistribution Of Electrons: 2, 8, 8, 2",
            "Scandium":"Symbol: Sc\nElement Number: 21\nNumber of Protons/Electrons: 21\nNumber of Neutrons:21\nDistribution of Electrons: 2, 8, 9, 2"}
 
     if element in periodic_dict : 
